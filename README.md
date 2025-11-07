@@ -29,11 +29,11 @@ This project is a React-based event dashboard for Karunya University. It provide
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/karunya-event-dashboard.git
+   git clone https://github.com/Santhu7718/ku-web.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd karunya-event-dashboard
+   cd src
    ```
 3. Install dependencies:
    ```sh
@@ -47,7 +47,7 @@ This project is a React-based event dashboard for Karunya University. It provide
 ## Folder Structure
 
 ```
-karunya-event-dashboard/
+event-dashboard/
 │-- src/
 │   ├── assets/       # Images & icons
 │   ├── components/   # Reusable UI components

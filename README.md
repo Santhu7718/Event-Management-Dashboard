@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
   
-# Karunya University Event Dashboard
+# University Event Dashboard
 
 This project is a React-based event dashboard for Karunya University. It provides an interactive interface where users can explore various events like Hackathons, Fests, Workshops, and more.
 

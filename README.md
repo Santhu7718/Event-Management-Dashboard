@@ -29,7 +29,7 @@ This project is a React-based event dashboard for Karunya University. It provide
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Santhu7718/ku-web.git
+   git clone https://github.com/Santhu7718/Event-Management-Dashboard.git
    ```
 2. Navigate to the project directory:
    ```sh
